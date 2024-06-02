@@ -14,7 +14,16 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
 # Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+# Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
+# Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |

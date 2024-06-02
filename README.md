@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0344-reverse-string) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3379-score-of-a-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/3379-score-of-a-string) |
 # Array
 |  |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0260-single-number-iii) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 # Math
 |  |

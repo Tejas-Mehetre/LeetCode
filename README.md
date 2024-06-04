@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0344-reverse-string) |
+| [0409-longest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0409-longest-palindrome) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3379-score-of-a-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/3379-score-of-a-string) |
 # Array
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
+| [0409-longest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0409-longest-palindrome) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 # Sorting
 |  |
@@ -56,3 +58,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0409-longest-palindrome) |

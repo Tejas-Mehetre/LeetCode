@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0260-single-number-iii) |
+| [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1044-find-common-characters) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 # Binary Search
@@ -36,6 +37,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1044-find-common-characters) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 # Sorting
@@ -43,6 +45,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
+| [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
 # Heap (Priority Queue)
 |  |
 | ------- |

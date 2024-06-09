@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0260-single-number-iii) |
+| [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1044-find-common-characters) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1044-find-common-characters) |
@@ -58,11 +60,13 @@
 # Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 # Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 # Divide and Conquer
 |  |

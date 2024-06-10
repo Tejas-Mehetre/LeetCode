@@ -30,6 +30,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -48,6 +49,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 # Dynamic Programming
 |  |
@@ -113,4 +117,5 @@
 # Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1137-height-checker) |

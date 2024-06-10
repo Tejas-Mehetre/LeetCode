@@ -31,6 +31,7 @@
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1137-height-checker) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 # Binary Search
 |  |
@@ -53,6 +54,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1137-height-checker) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -99,3 +101,7 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0648-replace-words) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1137-height-checker) |

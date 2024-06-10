@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0344-reverse-string) |
 # String
 |  |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |

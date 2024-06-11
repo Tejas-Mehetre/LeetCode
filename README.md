@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0648-replace-words](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1044-find-common-characters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3379-score-of-a-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/3379-score-of-a-string) |
 # Array
 |  |
@@ -108,6 +110,7 @@
 | [0011-container-with-most-water](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Heap (Priority Queue)
 |  |
 | ------- |

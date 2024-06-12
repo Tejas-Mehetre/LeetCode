@@ -43,6 +43,7 @@
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0274-h-index) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
@@ -76,6 +77,7 @@
 | [0169-majority-element](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0274-h-index) |
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1217-relative-sort-array) |
@@ -136,5 +138,6 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1217-relative-sort-array) |

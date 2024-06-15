@@ -46,6 +46,7 @@
 | [0238-product-of-array-except-self](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0274-h-index) |
+| [0502-ipo](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
@@ -82,6 +83,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0274-h-index) |
+| [0502-ipo](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1137-height-checker) |
@@ -126,6 +128,7 @@
 | [0055-jump-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -134,6 +137,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0502-ipo) |
 # Quickselect
 |  |
 | ------- |

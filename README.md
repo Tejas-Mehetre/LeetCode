@@ -39,6 +39,7 @@
 | [0088-merge-sorted-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -127,6 +128,7 @@
 | [0011-container-with-most-water](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |

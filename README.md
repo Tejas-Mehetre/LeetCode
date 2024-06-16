@@ -47,6 +47,7 @@
 | [0238-product-of-array-except-self](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0274-h-index) |
+| [0330-patching-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0648-replace-words) |
@@ -129,6 +130,7 @@
 | [0055-jump-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |

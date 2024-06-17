@@ -13,6 +13,7 @@
 | [0125-valid-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Hash Table
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 # Prefix Sum
 |  |

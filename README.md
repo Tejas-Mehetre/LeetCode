@@ -64,6 +64,7 @@
 | [1137-height-checker](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1217-relative-sort-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
@@ -71,6 +72,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Hash Table
 |  |
 | ------- |

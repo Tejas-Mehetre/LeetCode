@@ -47,6 +47,7 @@
 | [0135-candy](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -172,3 +174,11 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1217-relative-sort-array) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0204-count-primes) |

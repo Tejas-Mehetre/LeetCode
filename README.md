@@ -67,6 +67,7 @@
 | [1137-height-checker](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -90,6 +91,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 # Sorting
 |  |
@@ -120,6 +122,7 @@
 | [0204-count-primes](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 # Prefix Sum
 |  |
@@ -190,6 +193,7 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Stack
 |  |
 | ------- |

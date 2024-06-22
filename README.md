@@ -21,6 +21,7 @@
 # String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0217-contains-duplicate) |
@@ -120,6 +122,7 @@
 # Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0204-count-primes) |

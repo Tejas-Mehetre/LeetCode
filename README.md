@@ -65,6 +65,7 @@
 | [0876-hand-of-straights](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0260-single-number-iii) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 # Math
@@ -137,6 +139,7 @@
 | [0238-product-of-array-except-self](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 # Divide and Conquer
 |  |
@@ -200,6 +203,7 @@
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -214,6 +218,7 @@
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |

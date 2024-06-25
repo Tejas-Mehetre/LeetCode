@@ -15,6 +15,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -26,6 +27,7 @@
 | [0125-valid-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1044-find-common-characters) |
@@ -155,6 +157,7 @@
 | [0055-jump-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0392-is-subsequence) |
 # Greedy
 |  |
 | ------- |

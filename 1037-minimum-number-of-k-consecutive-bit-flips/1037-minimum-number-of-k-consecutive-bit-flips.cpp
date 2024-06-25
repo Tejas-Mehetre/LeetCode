@@ -5,23 +5,25 @@ class Solution {
 public:
     int minKBitFlips(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int> flip(n, 0);
-        int flip_count = 0;
-        int result = 0;
-        
-        for (int i = 0; i < n; ++i) {
-            if (i >= k) {
-                flip_count -= flip[i - k];
+        int flips = 0;
+        int flipCount = 0;
+        vector<bool> isflipped(n, false);
+
+        for(int i = 0; i<n; i++){
+            if(i >= k && isflipped[i-k] == true){
+                flipCount--;
             }
-            if ((nums[i] + flip_count) % 2 == 0) {
-                if (i + k > n) {
+            
+            if(flipCount % 2 == nums[i]){
+                if(i+k > n){
                     return -1;
                 }
-                flip[i] = 1;
-                flip_count++;
-                result++;
+
+                flips++;
+                flipCount++;
+                isflipped[i] = true;
             }
         }
-        return result;
+        return flips;
     }
 };

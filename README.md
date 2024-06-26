@@ -61,6 +61,7 @@
 | [0238-product-of-array-except-self](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0289-game-of-life) |
 | [0330-patching-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -255,7 +256,9 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0289-game-of-life) |
 # Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0289-game-of-life) |

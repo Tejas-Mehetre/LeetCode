@@ -4,17 +4,19 @@ public:
         int m = matrix.size();
         int n = matrix[0].size();
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == 0) {
+        for(int i = 0; i<m; i++){
+            for(int j = 0; j<n; j++){
 
-                    for (int k = 0; k < m; k++) {
-                        if (matrix[k][j] != 0) {
+                if(matrix[i][j] == 0){
+                    
+                    for(int k = 0; k<m; k++){
+                        if(matrix[k][j] != 0){
                             matrix[k][j] = -10;
                         }
                     }
-                    for (int k = 0; k < n; k++) {
-                        if (matrix[i][k] != 0) {
+
+                    for(int k = 0; k<n; k++){
+                        if(matrix[i][k] != 0){
                             matrix[i][k] = -10;
                         }
                     }
@@ -22,12 +24,14 @@ public:
             }
         }
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == -10) {
+        for(int i = 0; i<m; i++){
+            for(int j = 0; j<n; j++){
+
+                if(matrix[i][j] == -10){
                     matrix[i][j] = 0;
                 }
             }
         }
+
     }
 };

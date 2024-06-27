@@ -268,3 +268,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0289-game-of-life) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1916-find-center-of-star-graph) |

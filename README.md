@@ -123,6 +123,7 @@
 | [1137-height-checker](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Heap (Priority Queue)
 |  |
@@ -187,6 +189,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 # Quickselect
 |  |
 | ------- |
@@ -275,3 +278,4 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |

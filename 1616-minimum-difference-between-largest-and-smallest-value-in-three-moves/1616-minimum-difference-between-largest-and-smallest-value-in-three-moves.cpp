@@ -12,7 +12,6 @@ public:
         // Sort the array
         std::sort(nums.begin(), nums.end());
 
-        // Calculate the differences for the four cases
         int case1 = nums[n-1] - nums[3];
         int case2 = nums[n-2] - nums[2];
         int case3 = nums[n-3] - nums[1];

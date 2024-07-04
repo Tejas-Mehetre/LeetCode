@@ -11,25 +11,20 @@
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
-        ListNode* modify = head->next; // Start from the node after the initial 0
-        ListNode* nextSum = modify;
+        ListNode* trav = head->next;
+        ListNode* temp = trav;
 
-        while (nextSum != nullptr) {
+        while(trav != nullptr){
             int sum = 0;
-            // Find the sum of all nodes until you encounter a 0.
-            while (nextSum->val != 0) {
-                sum += nextSum->val;
-                nextSum = nextSum->next;
+            while(temp->val != 0){
+                sum += temp->val;
+                temp = temp->next;
             }
-
-            // Assign the sum to the current node's value.
-            modify->val = sum;
-            // Move nextSum to the first non-zero value of the next block.
-            nextSum = nextSum->next;
-            // Move modify also to this node.
-            modify->next = nextSum;
-            modify = modify->next;
+            trav->val = sum;
+            temp = temp->next;
+            trav->next = temp;
+            trav = trav->next;
         }
-        return head->next; // Skip the initial 0 node.
+        return head->next;
     }
 };

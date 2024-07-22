@@ -322,6 +322,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -332,6 +333,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -347,6 +349,7 @@
 | [0049-group-anagrams](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
@@ -401,6 +404,7 @@
 | [1720-crawler-log-folder](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |

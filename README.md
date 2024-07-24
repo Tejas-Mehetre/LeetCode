@@ -315,6 +315,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -350,6 +351,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2502-sort-the-people) |

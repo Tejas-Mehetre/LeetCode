@@ -4,14 +4,15 @@ public:
         int m = nums1.size();
         int n = nums2.size();
         vector<int> num;
+        unordered_map<int, int> map;
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (nums1[i] == nums2[j]) {
-                    if (find(num.begin(), num.end(), nums2[j]) == num.end()) {
-                        num.push_back(nums2[j]);
-                    }
-                }
+        for(int i = 0; i<m; i++){
+            map[nums1[i]]++;
+        }
+        for(int i = 0; i<n; i++){
+            if(map[nums2[i]] > 0){
+                num.push_back(nums2[i]);
+                map[nums2[i]] = 0;
             }
         }
 

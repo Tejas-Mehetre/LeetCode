@@ -291,11 +291,13 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
@@ -475,4 +477,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0389-find-the-difference) |
+## Shortest Path
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->

@@ -396,6 +396,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0050-powx-n) |
 | [1642-water-bottles](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -409,6 +410,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue

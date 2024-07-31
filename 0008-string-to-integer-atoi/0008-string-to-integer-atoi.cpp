@@ -3,29 +3,30 @@ public:
     int myAtoi(string s) {
         int i = 0;
         int n = s.length();
+
         while(i<n && s[i] == ' '){
             i++;
         }
 
         int sign = 1;
         if(i<n && (s[i] == '+' || s[i] == '-')){
-            sign = (s[i++] == '-') ? -1 : 1;
+            sign = (s[i] == '-') ? -1 : 1;
+            i++;
         }
 
-        int res, ans = 0;
-        while(i<n){
-            if(isdigit(s[i])){
-                res = s[i] - '0';
-                if (ans > INT_MAX / 10 || (ans == INT_MAX / 10 && res > INT_MAX % 10)) {
-                    return (sign == 1) ? INT_MAX : INT_MIN;
-                }
-                ans = ans * 10 + res;
-                i++;
+        long long res = 0;
+        while(i<n && isdigit(s[i])){
+            res = (res * 10) + (s[i] - '0');
+
+            if(res * sign < INT_MIN){
+                return INT_MIN;
+            } else if(res * sign > INT_MAX){
+                return INT_MAX;
             }
-            else{
-                break;
-            }
+
+            i++;
         }
-        return ans* sign;
+        
+        return static_cast<int>(res * sign);
     }
 };

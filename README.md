@@ -316,6 +316,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -499,6 +500,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Indexed Tree

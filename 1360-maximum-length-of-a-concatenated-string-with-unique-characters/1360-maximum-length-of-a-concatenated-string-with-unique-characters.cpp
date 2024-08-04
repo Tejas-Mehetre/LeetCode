@@ -23,7 +23,7 @@ public:
             return temp.length();
         }
 
-        if(memo.count(temp)){
+        if(memo.find(temp) != memo.end()){
             return memo[temp];
         }
 

@@ -322,6 +322,7 @@
 | [1293-three-consecutive-odds](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1511-count-number-of-teams](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -436,6 +437,7 @@
 | [0205-isomorphic-strings](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0389-find-the-difference) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1720-crawler-log-folder](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -499,6 +501,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0389-find-the-difference) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Shortest Path
 |  |
 | ------- |
@@ -523,4 +526,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->

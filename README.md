@@ -314,6 +314,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -388,6 +389,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0055-jump-game) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -521,6 +523,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0279-perfect-squares) |

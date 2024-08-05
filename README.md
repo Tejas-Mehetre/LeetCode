@@ -290,6 +290,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0279-perfect-squares) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
@@ -414,6 +415,7 @@
 | [0050-powx-n](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0279-perfect-squares) |
 | [1642-water-bottles](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -521,6 +523,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1196-filling-bookcase-shelves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1196-filling-bookcase-shelves) |

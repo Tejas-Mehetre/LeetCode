@@ -366,12 +366,14 @@
 | [0141-linked-list-cycle](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -422,6 +424,7 @@
 | [0070-climbing-stairs](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0279-perfect-squares) |
+| [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1642-water-bottles](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2645-pass-the-pillow) |

@@ -450,6 +450,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0389-find-the-difference) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |

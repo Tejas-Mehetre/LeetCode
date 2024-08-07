@@ -415,6 +415,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0043-multiply-strings) |
 | [1642-water-bottles](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -424,6 +425,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0070-climbing-stairs) |
@@ -457,6 +459,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0043-multiply-strings](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0205-isomorphic-strings) |

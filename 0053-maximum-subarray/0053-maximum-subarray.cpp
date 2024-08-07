@@ -4,14 +4,14 @@ public:
         int cmax = 0;
         int omax = nums[0];
 
-        for(int i = 0; i<nums.size() ; i++){
+        for(int i : nums){
             if(cmax < 0){
-                cmax = nums[i];
+                cmax = i;
             }
             else{
-                cmax += nums[i];
+                cmax += i;
             }
-            omax = max(omax , cmax);
+            omax = max(omax, cmax);
         }
         return omax;
     }

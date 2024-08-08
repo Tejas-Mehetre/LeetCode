@@ -320,6 +320,7 @@
 | [0075-sort-colors](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -380,6 +381,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -567,6 +569,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Memoization
 |  |
@@ -576,4 +579,8 @@
 |  |
 | ------- |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

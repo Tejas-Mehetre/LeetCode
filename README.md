@@ -325,6 +325,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0870-magic-squares-in-grid](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -359,6 +360,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0389-find-the-difference) |
+| [0870-magic-squares-in-grid](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -441,6 +443,7 @@
 | [0231-power-of-two](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -448,6 +451,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0048-rotate-image) |
+| [0870-magic-squares-in-grid](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Recursion

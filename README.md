@@ -335,6 +335,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0909-stone-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -459,6 +460,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0909-stone-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0909-stone-game) |
 | [1642-water-bottles](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -586,6 +588,7 @@
 | [0279-perfect-squares](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0279-perfect-squares) |
 | [0650-2-keys-keyboard](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0909-stone-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0909-stone-game) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1196-filling-bookcase-shelves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -618,4 +621,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->

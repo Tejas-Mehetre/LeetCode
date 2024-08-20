@@ -340,6 +340,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -461,6 +462,7 @@
 | [0650-2-keys-keyboard](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -591,6 +593,7 @@
 | [0909-stone-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0909-stone-game) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1196-filling-bookcase-shelves](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Indexed Tree
@@ -617,6 +620,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1240-stone-game-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1240-stone-game-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -625,4 +629,5 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->

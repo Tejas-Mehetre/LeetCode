@@ -575,6 +575,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0389-find-the-difference) |
+| [0476-number-complement](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0476-number-complement) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Shortest Path
 |  |

@@ -5,7 +5,7 @@ public:
     string fractionAddition(string expression) {
         int numerator = 0, denominator = 1;
         int i = 0, n = expression.size();
-
+        
         while (i < n) {
             int sign = 1;
             if (expression[i] == '+' || expression[i] == '-') {

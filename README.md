@@ -461,6 +461,7 @@
 | [0070-climbing-stairs](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0279-perfect-squares) |
+| [0564-find-the-closest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -503,6 +504,7 @@
 | [0205-isomorphic-strings](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0389-find-the-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tejas-Mehetre/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |

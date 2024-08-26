@@ -319,6 +319,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0048-rotate-image) |
@@ -387,6 +388,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -410,6 +412,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0349-intersection-of-two-arrays) |

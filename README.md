@@ -380,6 +380,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0870-magic-squares-in-grid](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -516,6 +517,7 @@
 | [0205-isomorphic-strings](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -631,6 +633,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Memoization
 |  |

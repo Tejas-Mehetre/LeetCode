@@ -323,6 +323,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -373,6 +374,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Tejas-Mehetre/LeetCode/tree/master/0141-linked-list-cycle) |
